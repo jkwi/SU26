@@ -1,0 +1,251 @@
+student_id,class_year,first_gen,athlete,major_group,tutoring_use,exercise_days,sleep_hours,study_hours,stress_score,belonging_score,academic_confidence,exam_score,gpa,pass_course
+SU26_001,First-Year,Yes,No,Social Sciences,No,4,6.8,9.6,43.5,47.7,64.7,88.9,2.07,Yes
+SU26_002,Sophomore,No,Yes,Social Sciences,Yes,3,8.6,6.5,36.9,68.8,64.0,82.7,3.2,No
+SU26_003,First-Year,Yes,No,Social Sciences,No,5,7.2,3.0,57.4,62.3,63.6,93.2,3.14,Yes
+SU26_004,Junior,No,Yes,Education,Yes,3,7.7,7.9,49.2,60.9,71.1,81.9,2.79,Yes
+SU26_005,Sophomore,Yes,No,Business,Yes,3,7.5,13.4,42.8,52.8,77.6,87.2,2.42,No
+SU26_006,Junior,Yes,No,Health Sciences,No,3,7.5,7.7,39.9,57.2,58.6,77.0,2.78,Yes
+SU26_007,Sophomore,No,No,Health Sciences,No,6,7.6,6.4,38.9,60.1,62.6,90.3,3.13,Yes
+SU26_008,Sophomore,No,No,STEM,No,2,7.0,6.8,45.3,52.1,74.7,69.8,2.83,No
+SU26_009,Junior,No,No,Business,No,4,7.8,11.7,41.8,59.7,69.0,90.7,3.49,Yes
+SU26_010,Junior,Yes,No,Psychology,Yes,2,5.6,16.5,55.3,53.6,67.6,100,3.58,Yes
+SU26_011,Senior,Yes,Yes,Psychology,Yes,6,8.8,12.0,45.5,72.0,79.2,100,3.74,Yes
+SU26_012,Junior,Yes,No,Health Sciences,No,3,7.0,10.3,42.8,54.0,70.9,86.6,2.9,Yes
+SU26_013,Junior,No,Yes,Health Sciences,No,2,7.5,3.9,55.0,67.4,57.1,72.8,3.29,Yes
+SU26_014,Junior,No,No,Education,Yes,4,7.0,3.2,48.9,66.0,66.4,89.2,2.78,Yes
+SU26_015,Sophomore,No,No,Psychology,No,2,5.7,3.6,33.2,67.1,73.8,77.4,2.76,Yes
+SU26_016,Senior,No,No,STEM,No,2,8.5,10.0,45.7,53.7,71.5,97.6,3.0,Yes
+SU26_017,Junior,Yes,No,STEM,Yes,4,6.7,9.8,34.8,66.5,74.6,100,2.96,Yes
+SU26_018,Senior,Yes,No,Social Sciences,No,2,6.3,11.8,49.6,55.4,63.7,63.2,2.15,No
+SU26_019,First-Year,No,No,Psychology,No,5,7.0,7.9,50.2,39.7,53.4,78.6,2.26,Yes
+SU26_020,Junior,Yes,No,Social Sciences,No,1,6.2,8.9,45.5,45.6,65.7,88.2,3.05,No
+SU26_021,Senior,No,No,Education,Yes,3,7.3,7.9,38.4,70.3,72.2,88.4,3.29,Yes
+SU26_022,Senior,No,Yes,Business,No,5,7.9,12.3,43.1,74.5,91.8,100,3.08,No
+SU26_023,Sophomore,No,No,Psychology,Yes,3,6.5,9.6,46.4,54.2,77.3,81.1,2.6,Yes
+SU26_024,First-Year,Yes,No,Health Sciences,Yes,5,7.4,12.8,48.7,48.6,68.1,79.5,2.65,Yes
+SU26_025,Junior,No,Yes,Psychology,Yes,5,7.5,10.9,47.0,66.3,70.8,88.8,3.04,Yes
+SU26_026,First-Year,Yes,No,STEM,Yes,2,7.0,9.5,64.2,33.8,53.2,78.7,2.52,Yes
+SU26_027,First-Year,No,Yes,Education,No,5,7.1,4.4,45.2,56.2,68.9,99.0,3.4,Yes
+SU26_028,First-Year,No,No,Psychology,No,1,6.5,7.4,47.5,58.6,46.7,80.5,2.05,Yes
+SU26_029,Sophomore,No,Yes,Business,No,5,6.4,7.8,38.1,60.7,68.8,82.4,3.02,Yes
+SU26_030,Sophomore,Yes,No,Psychology,Yes,3,6.7,7.3,35.6,67.4,64.5,91.5,3.05,Yes
+SU26_031,First-Year,No,No,Business,No,2,6.5,10.1,50.6,60.6,67.9,79.2,2.61,No
+SU26_032,Sophomore,No,No,Social Sciences,No,0,6.4,8.0,51.9,53.5,63.1,84.4,2.53,Yes
+SU26_033,First-Year,No,No,Psychology,No,4,6.6,9.8,41.2,51.6,64.3,82.1,2.27,Yes
+SU26_034,Senior,No,Yes,Education,No,5,7.2,7.9,34.5,57.7,74.9,89.5,3.53,Yes
+SU26_035,First-Year,Yes,No,Psychology,Yes,4,6.5,7.4,48.9,45.3,56.8,76.6,2.85,No
+SU26_036,Senior,No,Yes,Health Sciences,No,4,7.3,9.2,30.9,77.7,94.3,78.2,3.07,No
+SU26_037,Junior,Yes,No,Health Sciences,No,2,7.6,6.1,30.6,59.8,76.3,89.8,3.59,Yes
+SU26_038,Senior,No,Yes,Social Sciences,No,3,8.1,6.1,57.4,65.3,66.5,78.4,2.83,No
+SU26_039,Senior,Yes,Yes,Psychology,No,6,7.8,10.1,51.6,59.5,74.8,83.1,2.88,Yes
+SU26_040,First-Year,No,Yes,Psychology,No,5,6.5,4.8,54.2,42.1,32.0,64.4,2.28,Yes
+SU26_041,First-Year,Yes,Yes,Health Sciences,Yes,4,5.7,6.0,56.4,39.1,61.1,75.4,1.89,Yes
+SU26_042,Senior,No,No,Business,No,4,7.6,8.6,40.4,75.9,74.4,88.2,3.43,No
+SU26_043,Sophomore,Yes,No,Social Sciences,No,4,6.7,3.9,37.1,45.2,56.3,87.2,2.84,Yes
+SU26_044,Senior,No,Yes,Business,Yes,4,8.0,13.0,41.9,75.0,72.3,86.3,2.96,No
+SU26_045,First-Year,Yes,No,Health Sciences,No,4,6.9,5.7,41.0,51.3,69.9,59.6,2.94,No
+SU26_046,Sophomore,No,No,Psychology,No,0,7.2,13.1,34.9,75.8,72.6,82.6,3.53,Yes
+SU26_047,First-Year,No,Yes,Education,No,5,8.0,6.5,49.9,53.3,71.9,77.7,2.26,No
+SU26_048,Junior,No,No,Social Sciences,No,6,7.7,5.8,37.6,61.9,71.4,85.9,3.06,Yes
+SU26_049,First-Year,No,No,Social Sciences,No,0,6.3,12.5,49.8,51.5,59.5,73.4,2.78,No
+SU26_050,Sophomore,Yes,No,Business,Yes,5,6.4,11.6,37.7,48.6,68.8,100,4.0,Yes
+SU26_051,First-Year,No,No,Psychology,No,3,7.2,12.2,42.4,59.9,72.8,84.0,2.59,No
+SU26_052,First-Year,No,No,Social Sciences,Yes,1,7.0,10.9,47.4,39.2,52.5,99.7,2.38,No
+SU26_053,First-Year,No,Yes,STEM,No,4,7.8,10.8,51.5,54.3,71.1,78.0,2.28,No
+SU26_054,Sophomore,No,Yes,Education,No,4,7.8,10.6,39.4,68.1,61.3,78.1,3.05,Yes
+SU26_055,Sophomore,No,No,Health Sciences,No,5,6.7,5.2,48.0,56.1,65.6,75.4,2.57,Yes
+SU26_056,Sophomore,No,No,Social Sciences,Yes,1,6.8,11.0,51.4,52.9,68.1,86.7,3.42,Yes
+SU26_057,Senior,No,Yes,Health Sciences,No,3,8.1,6.5,36.3,79.1,73.0,82.6,2.91,Yes
+SU26_058,Sophomore,No,Yes,Business,No,5,8.2,6.8,45.4,49.5,54.2,97.9,2.88,No
+SU26_059,First-Year,No,Yes,Education,No,3,7.8,10.0,53.0,45.4,68.2,81.4,3.04,No
+SU26_060,First-Year,Yes,No,Psychology,Yes,3,8.2,5.0,41.8,51.2,65.3,86.7,2.12,No
+SU26_061,Senior,No,No,Health Sciences,No,3,7.6,6.1,51.3,58.2,66.7,80.8,2.39,Yes
+SU26_062,First-Year,No,No,Psychology,No,3,7.8,9.1,44.0,46.8,64.8,80.7,3.02,Yes
+SU26_063,Senior,No,Yes,Social Sciences,No,5,7.8,8.6,46.5,74.6,77.7,100,3.25,Yes
+SU26_064,Junior,No,No,Business,No,5,7.1,12.1,59.4,49.8,51.7,88.6,3.11,Yes
+SU26_065,Sophomore,Yes,No,Business,Yes,4,8.3,14.4,43.6,46.0,49.7,100,3.18,Yes
+SU26_066,Junior,No,No,Social Sciences,No,3,8.2,8.1,55.2,59.9,70.7,75.1,3.0,No
+SU26_067,Sophomore,Yes,No,Health Sciences,No,5,5.2,5.7,51.6,33.8,47.2,70.3,2.05,No
+SU26_068,Junior,No,Yes,Health Sciences,Yes,4,8.5,6.6,46.3,63.1,64.4,80.5,2.47,Yes
+SU26_069,First-Year,Yes,No,Social Sciences,Yes,3,6.0,9.2,58.1,43.0,48.8,71.1,2.12,Yes
+SU26_070,First-Year,No,No,Health Sciences,Yes,2,7.1,1,59.6,45.8,65.8,68.4,2.4,No
+SU26_071,First-Year,No,No,Psychology,No,3,5.9,4.0,49.9,49.1,63.0,89.2,2.75,Yes
+SU26_072,Sophomore,Yes,No,Health Sciences,Yes,3,7.3,10.5,40.5,55.4,58.0,91.3,2.67,Yes
+SU26_073,Senior,No,No,Education,No,3,8.0,8.6,52.2,61.0,70.8,96.6,3.42,Yes
+SU26_074,First-Year,No,No,Health Sciences,Yes,2,6.6,9.8,63.0,32.7,40.8,87.0,2.11,Yes
+SU26_075,First-Year,Yes,No,Social Sciences,No,3,6.2,5.7,54.8,47.2,53.2,74.3,2.52,Yes
+SU26_076,Senior,Yes,No,Social Sciences,No,2,7.3,14.3,52.4,48.8,64.4,96.9,3.32,Yes
+SU26_077,First-Year,No,No,STEM,No,3,8.2,1.6,57.8,37.5,59.0,79.1,2.83,Yes
+SU26_078,Sophomore,Yes,No,Education,Yes,3,6.4,5.8,46.9,53.5,62.2,71.4,1.83,No
+SU26_079,Sophomore,Yes,Yes,Psychology,No,1,5.3,12.4,43.8,65.3,74.4,87.1,3.36,Yes
+SU26_080,First-Year,Yes,Yes,Business,No,4,6.4,3.3,59.0,54.0,67.5,71.4,2.67,No
+SU26_081,First-Year,No,No,Social Sciences,Yes,2,6.3,8.0,45.1,54.7,62.3,94.8,3.74,Yes
+SU26_082,Senior,No,No,Health Sciences,No,5,7.3,2.7,48.6,64.6,59.6,80.4,3.55,Yes
+SU26_083,Sophomore,No,No,Social Sciences,No,1,7.3,10.0,51.6,53.9,72.6,79.5,2.32,No
+SU26_084,First-Year,No,Yes,Psychology,No,5,7.4,7.5,36.5,57.0,69.1,81.1,2.77,Yes
+SU26_085,Junior,No,No,Psychology,Yes,0,6.1,14.8,45.0,67.4,57.8,93.5,3.73,No
+SU26_086,Sophomore,No,Yes,Social Sciences,Yes,3,8.0,11.7,47.7,51.3,55.7,71.3,2.75,Yes
+SU26_087,Senior,No,No,Psychology,No,5,7.7,5.6,31.3,66.2,82.8,76.5,3.09,Yes
+SU26_088,First-Year,Yes,Yes,Business,Yes,3,6.9,9.2,48.7,56.8,58.8,78.7,2.74,Yes
+SU26_089,Sophomore,Yes,No,STEM,No,2,5.4,5.1,59.2,43.7,59.3,79.5,1.98,Yes
+SU26_090,Junior,Yes,Yes,Business,No,4,6.4,10.2,54.4,49.6,64.7,84.9,3.09,Yes
+SU26_091,Junior,No,No,Education,No,2,6.8,6.4,26.2,74.5,79.1,84.4,2.92,Yes
+SU26_092,Junior,No,No,Psychology,No,2,6.8,5.0,48.4,57.8,58.6,64.9,2.57,No
+SU26_093,Sophomore,Yes,No,Business,Yes,2,8.7,6.7,44.0,71.0,76.5,95.2,3.28,Yes
+SU26_094,Senior,Yes,Yes,STEM,No,6,7.2,4.4,42.8,75.0,60.9,65.9,2.48,No
+SU26_095,First-Year,No,No,Business,No,3,5.9,10.4,54.1,40.9,46.2,74.7,1.87,No
+SU26_096,Sophomore,No,No,Psychology,No,2,7.5,3.5,45.9,53.5,58.1,71.3,2.35,Yes
+SU26_097,Senior,No,No,Health Sciences,No,3,6.5,13.5,41.5,57.2,76.0,90.4,3.2,Yes
+SU26_098,Junior,Yes,Yes,Health Sciences,Yes,4,8.4,3.7,70.3,43.3,50.2,72.5,2.27,No
+SU26_099,First-Year,No,No,Health Sciences,No,3,6.8,6.6,47.9,62.4,54.1,78.4,3.04,Yes
+SU26_100,First-Year,No,No,STEM,Yes,3,6.0,14.4,52.3,52.1,82.6,86.3,2.87,Yes
+SU26_101,Senior,No,No,STEM,No,2,5.5,6.2,37.8,56.0,72.0,77.1,2.7,Yes
+SU26_102,First-Year,No,Yes,Education,No,4,7.6,7.2,49.3,60.8,82.5,88.7,2.2,Yes
+SU26_103,First-Year,No,No,Psychology,No,4,6.3,1.9,48.1,44.7,66.4,60.0,2.73,No
+SU26_104,First-Year,No,No,STEM,No,2,7.2,7.8,36.7,58.3,56.4,78.4,2.22,Yes
+SU26_105,First-Year,Yes,No,Health Sciences,No,2,6.4,7.5,52.8,50.6,56.8,76.5,3.06,No
+SU26_106,First-Year,No,No,Psychology,No,1,8.4,11.0,45.8,68.1,71.2,71.6,2.64,Yes
+SU26_107,Junior,No,No,Education,No,2,7.1,9.9,42.7,57.0,64.6,65.9,3.0,No
+SU26_108,Junior,No,No,Education,No,4,8.3,6.3,51.8,64.4,53.0,74.2,2.76,Yes
+SU26_109,Junior,Yes,No,Psychology,Yes,2,7.6,15.5,47.2,58.3,51.3,100,2.73,Yes
+SU26_110,Sophomore,No,No,Psychology,No,1,6.9,9.9,33.3,66.4,65.0,98.4,3.14,Yes
+SU26_111,Sophomore,No,No,Business,No,5,8.0,3.6,37.0,51.9,72.5,79.4,3.15,Yes
+SU26_112,Junior,No,No,Psychology,No,3,8.0,10.3,37.2,72.6,61.5,85.9,3.14,Yes
+SU26_113,First-Year,No,No,Business,No,2,6.5,7.1,54.9,48.5,47.1,74.1,2.68,Yes
+SU26_114,Senior,No,Yes,Education,No,5,7.7,8.5,43.8,72.0,82.1,85.4,2.84,Yes
+SU26_115,First-Year,No,No,Health Sciences,No,3,5.8,9.0,45.4,68.3,71.0,67.3,1.92,No
+SU26_116,Sophomore,Yes,No,Business,No,2,6.7,10.3,54.9,66.0,74.1,100,3.05,No
+SU26_117,Junior,No,No,STEM,No,4,8.8,8.3,44.8,70.1,62.4,89.3,3.16,Yes
+SU26_118,Sophomore,Yes,No,Psychology,Yes,2,8.4,10.2,42.2,60.6,73.5,96.7,2.88,Yes
+SU26_119,Senior,No,No,Education,No,4,6.3,11.4,38.2,64.0,65.1,91.0,3.48,No
+SU26_120,First-Year,Yes,No,STEM,Yes,3,6.2,10.6,58.7,34.7,57.4,83.2,3.1,No
+SU26_121,First-Year,No,No,Psychology,No,1,5.4,2.7,52.1,48.6,74.8,72.8,2.5,Yes
+SU26_122,Senior,Yes,Yes,Education,No,2,5.7,13.6,54.4,55.0,76.8,76.2,2.49,Yes
+SU26_123,First-Year,Yes,No,Psychology,Yes,3,7.5,15.2,43.1,44.1,60.1,84.1,2.78,Yes
+SU26_124,Senior,Yes,No,STEM,No,3,7.2,9.7,39.4,59.6,71.6,89.9,3.96,Yes
+SU26_125,Junior,No,No,Education,No,5,7.9,6.5,52.8,51.1,63.7,78.5,2.37,No
+SU26_126,Sophomore,No,No,Psychology,No,2,7.5,10.1,46.0,59.6,73.8,83.1,3.06,Yes
+SU26_127,First-Year,Yes,No,Social Sciences,No,0,7.1,8.5,42.5,47.9,65.2,81.9,2.61,Yes
+SU26_128,Sophomore,Yes,No,Social Sciences,No,5,6.7,12.1,45.6,47.1,58.9,95.5,2.82,Yes
+SU26_129,Junior,No,No,Psychology,No,3,7.7,7.0,36.5,69.3,76.7,90.6,3.45,Yes
+SU26_130,First-Year,Yes,No,STEM,No,2,8.9,10.1,43.7,57.6,55.4,75.5,3.05,No
+SU26_131,Senior,No,No,Education,No,4,7.0,9.4,51.3,68.3,77.9,100,3.43,Yes
+SU26_132,First-Year,No,No,Psychology,No,3,7.0,8.3,44.6,47.7,62.2,76.5,2.85,No
+SU26_133,First-Year,No,Yes,Business,No,2,7.3,9.4,43.7,66.7,54.9,87.0,2.79,No
+SU26_134,Senior,No,No,Social Sciences,No,2,6.9,2.0,48.8,68.4,78.9,74.7,2.88,No
+SU26_135,Junior,No,No,Business,No,3,7.2,4.7,49.1,54.8,69.3,80.0,2.42,No
+SU26_136,Junior,No,No,Psychology,Yes,2,7.3,9.1,45.9,39.9,60.8,84.3,2.47,Yes
+SU26_137,First-Year,Yes,No,Psychology,Yes,4,7.7,11.0,47.5,39.4,63.8,83.8,2.69,Yes
+SU26_138,First-Year,No,No,Education,No,4,6.1,3.8,44.0,43.1,51.7,65.6,2.4,Yes
+SU26_139,First-Year,Yes,No,Psychology,No,2,7.8,7.5,52.3,52.2,59.9,81.0,2.77,No
+SU26_140,Sophomore,No,No,STEM,No,5,6.9,8.1,51.8,49.9,67.1,84.8,2.53,No
+SU26_141,Sophomore,No,No,Education,No,4,6.5,8.6,38.5,60.3,62.4,95.0,2.99,Yes
+SU26_142,Junior,No,Yes,Psychology,Yes,6,6.7,9.2,46.2,59.7,62.4,74.7,1.94,Yes
+SU26_143,Sophomore,No,Yes,Social Sciences,Yes,5,7.0,9.3,53.0,56.1,56.6,100,2.58,Yes
+SU26_144,Sophomore,No,No,Social Sciences,Yes,4,7.6,9.5,27.1,66.5,74.8,87.3,2.72,Yes
+SU26_145,First-Year,Yes,No,Psychology,Yes,1,6.5,2.7,57.0,43.3,51.8,65.3,2.17,Yes
+SU26_146,Junior,Yes,Yes,Social Sciences,No,3,7.0,7.0,56.0,55.4,75.2,77.1,2.19,Yes
+SU26_147,First-Year,Yes,No,Health Sciences,No,3,6.8,5.5,50.0,46.4,68.3,84.4,2.74,Yes
+SU26_148,Senior,No,No,Education,No,2,7.1,11.8,50.4,57.5,65.7,85.8,2.47,Yes
+SU26_149,Junior,No,No,Education,No,7,5.5,10.6,39.0,55.8,66.6,79.3,3.01,Yes
+SU26_150,Senior,No,No,Psychology,No,0,8.7,4.2,46.4,70.7,67.6,75.4,3.81,No
+SU26_151,Sophomore,Yes,No,Business,Yes,4,6.9,7.9,44.7,43.2,56.6,85.4,2.51,No
+SU26_152,Senior,Yes,No,Psychology,Yes,1,8.0,11.5,44.9,52.9,56.4,91.5,3.71,Yes
+SU26_153,Junior,No,No,Education,No,2,7.4,9.0,40.8,60.8,83.9,100,3.75,Yes
+SU26_154,Senior,Yes,No,Psychology,No,5,6.3,10.7,44.6,63.6,76.0,95.3,3.39,Yes
+SU26_155,Junior,Yes,No,Business,No,2,7.8,10.0,59.7,41.4,60.7,93.4,3.04,No
+SU26_156,Senior,Yes,No,Social Sciences,No,4,8.6,7.2,42.8,48.9,67.2,89.2,3.04,Yes
+SU26_157,Junior,No,No,Psychology,Yes,4,7.1,6.4,50.6,63.8,57.3,77.9,2.25,Yes
+SU26_158,Junior,No,Yes,Business,No,5,9.1,7.0,39.1,57.6,72.9,85.2,3.72,Yes
+SU26_159,First-Year,No,Yes,Education,Yes,5,6.1,4.9,56.2,44.5,48.9,70.8,2.01,No
+SU26_160,Junior,Yes,Yes,Health Sciences,No,5,7.3,6.8,49.7,71.1,58.9,78.7,3.02,No
+SU26_161,Sophomore,Yes,No,Social Sciences,Yes,3,6.4,6.8,72.5,32.5,40.9,64.5,2.49,No
+SU26_162,Junior,No,No,Business,Yes,4,8.2,9.2,41.6,65.2,68.4,70.2,1.69,No
+SU26_163,First-Year,Yes,No,STEM,Yes,4,8.0,8.5,49.3,40.8,51.6,80.8,3.15,Yes
+SU26_164,Junior,No,No,STEM,Yes,4,7.4,12.2,37.4,60.1,80.5,83.6,2.32,Yes
+SU26_165,Sophomore,No,No,Business,Yes,2,6.4,11.8,45.4,44.4,47.0,92.5,2.74,No
+SU26_166,First-Year,Yes,Yes,Health Sciences,No,5,5.8,7.9,46.0,60.8,67.3,90.4,2.68,No
+SU26_167,Junior,No,No,Health Sciences,No,5,8.6,4.4,40.9,61.4,80.9,91.1,3.43,Yes
+SU26_168,Senior,No,Yes,Social Sciences,No,3,7.4,4.7,34.0,58.1,56.9,85.1,3.09,Yes
+SU26_169,Senior,No,No,Health Sciences,No,3,6.6,6.9,42.6,37.8,52.4,81.7,3.45,Yes
+SU26_170,Junior,No,No,Psychology,Yes,4,7.2,6.1,30.4,64.8,78.0,100,4.0,Yes
+SU26_171,Junior,No,Yes,Business,Yes,5,7.5,9.9,50.5,63.9,75.3,100,3.83,Yes
+SU26_172,Sophomore,No,Yes,Social Sciences,No,4,6.2,6.4,42.9,60.0,39.2,70.5,2.57,No
+SU26_173,Junior,No,No,Health Sciences,No,1,7.7,10.8,43.0,64.2,72.4,79.9,2.94,No
+SU26_174,First-Year,No,No,Social Sciences,No,3,6.2,9.5,45.0,54.3,50.8,82.0,2.09,No
+SU26_175,First-Year,Yes,No,Education,Yes,5,6.5,11.0,45.3,53.2,61.3,72.7,2.03,No
+SU26_176,Sophomore,No,No,Business,No,3,5.1,7.0,62.4,49.6,64.5,87.2,2.26,Yes
+SU26_177,Junior,Yes,No,Business,No,3,8.7,8.4,53.3,58.0,59.7,70.6,2.43,No
+SU26_178,Senior,No,Yes,Education,Yes,4,7.4,9.6,33.8,79.2,82.8,85.3,3.51,Yes
+SU26_179,Sophomore,No,No,Business,No,5,8.3,10.3,43.0,49.2,62.1,94.0,3.26,Yes
+SU26_180,Sophomore,No,No,STEM,No,4,6.6,11.4,34.9,56.7,62.3,93.0,2.67,Yes
+SU26_181,First-Year,Yes,No,Psychology,No,5,6.8,9.3,53.5,59.9,53.8,78.5,2.74,No
+SU26_182,First-Year,No,No,Psychology,No,3,7.3,7.3,37.6,51.4,67.8,76.0,2.7,No
+SU26_183,Sophomore,No,No,Health Sciences,No,1,6.4,4.3,62.1,54.3,70.2,80.9,2.52,No
+SU26_184,Junior,Yes,No,Health Sciences,Yes,6,6.6,9.3,41.2,49.8,70.4,85.4,2.62,Yes
+SU26_185,Junior,Yes,Yes,STEM,No,2,6.5,5.0,38.8,60.5,71.8,80.1,3.26,Yes
+SU26_186,Junior,Yes,No,Health Sciences,No,2,5.7,9.5,50.1,50.0,63.1,86.3,2.76,No
+SU26_187,Junior,Yes,No,Psychology,Yes,3,6.3,8.8,50.1,66.6,68.2,87.9,3.23,Yes
+SU26_188,Junior,No,Yes,Education,No,3,7.5,6.8,48.2,62.2,70.7,84.9,3.75,Yes
+SU26_189,Junior,Yes,No,Health Sciences,No,3,7.3,3.8,36.5,39.0,70.0,66.7,2.75,No
+SU26_190,Senior,No,Yes,Psychology,No,5,7.7,7.7,37.2,71.5,74.9,73.3,3.05,No
+SU26_191,Junior,No,No,Health Sciences,No,4,7.1,5.6,59.1,55.8,73.4,86.1,2.61,Yes
+SU26_192,Senior,No,Yes,STEM,Yes,3,7.2,5.8,31.9,69.7,79.2,98.2,3.95,Yes
+SU26_193,Senior,Yes,No,Health Sciences,No,2,6.8,12.0,72.5,44.4,69.3,69.1,2.06,No
+SU26_194,Sophomore,No,No,Health Sciences,Yes,6,7.5,12.4,42.5,59.4,64.2,100,3.62,Yes
+SU26_195,Junior,No,No,Social Sciences,No,2,7.5,2.7,55.2,60.2,72.1,73.1,3.09,Yes
+SU26_196,First-Year,No,No,Health Sciences,Yes,3,8.1,12.0,44.2,48.1,69.4,94.7,3.63,Yes
+SU26_197,First-Year,No,No,Psychology,No,5,7.0,4.0,59.2,46.5,60.6,83.9,3.15,Yes
+SU26_198,Sophomore,No,Yes,Social Sciences,No,5,8.0,5.5,42.9,55.0,62.3,76.0,2.02,Yes
+SU26_199,Sophomore,No,No,Education,No,4,5.8,9.0,34.1,59.3,70.5,66.6,2.51,No
+SU26_200,First-Year,No,No,Health Sciences,No,3,7.3,11.8,45.6,56.5,53.1,95.1,2.5,Yes
+SU26_201,Senior,No,Yes,Business,No,6,6.9,8.3,45.1,67.0,71.6,80.4,2.11,No
+SU26_202,First-Year,No,Yes,Psychology,No,5,7.4,9.1,43.5,51.5,60.1,76.8,2.51,Yes
+SU26_203,First-Year,No,No,Business,No,3,6.9,7.9,39.5,55.8,71.5,82.0,2.52,No
+SU26_204,Junior,No,No,Psychology,Yes,3,7.1,8.2,54.5,55.9,64.2,84.2,2.68,Yes
+SU26_205,First-Year,No,No,STEM,No,2,5.7,9.4,49.9,46.7,45.0,66.2,1.59,No
+SU26_206,Junior,No,No,STEM,No,5,7.9,9.0,38.3,66.7,58.6,89.0,3.14,No
+SU26_207,Senior,Yes,No,Social Sciences,No,4,7.0,9.1,40.4,64.1,68.0,83.7,2.75,Yes
+SU26_208,Sophomore,No,Yes,Psychology,No,4,7.9,10.2,42.0,62.2,64.7,72.7,2.22,Yes
+SU26_209,First-Year,Yes,No,STEM,No,5,7.1,3.1,47.3,42.5,60.7,63.9,1.86,Yes
+SU26_210,Sophomore,No,No,Psychology,Yes,2,6.5,4.7,46.5,65.0,64.9,80.1,2.47,Yes
+SU26_211,Junior,No,Yes,Business,No,5,8.6,6.8,44.8,59.9,67.4,76.4,3.01,Yes
+SU26_212,First-Year,No,No,STEM,No,3,7.0,8.3,46.6,55.2,63.6,100,2.45,Yes
+SU26_213,Junior,Yes,No,STEM,Yes,4,6.5,9.6,57.5,49.0,68.4,91.0,2.63,Yes
+SU26_214,First-Year,No,No,Business,No,5,7.2,6.6,58.4,50.0,52.8,59.8,2.73,No
+SU26_215,Sophomore,No,No,Social Sciences,No,2,6.1,5.5,36.1,50.3,76.9,86.8,2.66,Yes
+SU26_216,Senior,No,No,Social Sciences,No,2,7.1,8.6,38.8,68.8,81.1,83.4,3.3,Yes
+SU26_217,Senior,Yes,No,Business,No,1,6.1,10.0,52.3,57.2,63.9,77.0,2.91,Yes
+SU26_218,First-Year,Yes,No,Health Sciences,Yes,3,7.8,5.8,59.6,48.4,49.0,76.5,2.26,Yes
+SU26_219,First-Year,Yes,No,Health Sciences,Yes,4,8.3,6.1,45.5,56.3,62.5,94.3,3.18,Yes
+SU26_220,First-Year,No,No,Health Sciences,Yes,1,6.4,6.4,49.1,51.9,55.6,80.9,2.81,Yes
+SU26_221,Junior,No,No,Social Sciences,No,2,5.6,6.7,53.4,61.5,66.5,68.6,3.26,Yes
+SU26_222,Senior,No,No,Psychology,No,5,8.3,10.2,37.7,72.3,71.3,100,2.84,Yes
+SU26_223,Senior,No,No,STEM,No,4,6.9,11.9,44.1,52.6,83.1,94.8,3.64,Yes
+SU26_224,Senior,No,Yes,STEM,Yes,7,9.1,12.5,52.4,65.0,65.0,76.6,2.47,No
+SU26_225,Junior,No,No,Education,Yes,4,7.4,9.8,48.8,52.6,56.5,91.5,3.14,Yes
+SU26_226,Junior,No,Yes,Psychology,Yes,5,7.6,9.2,38.7,64.2,72.9,96.7,3.86,Yes
+SU26_227,Senior,Yes,No,STEM,No,1,5.4,9.8,55.7,61.0,72.0,83.4,2.3,No
+SU26_228,First-Year,No,Yes,Business,No,3,7.5,1.2,47.1,50.5,69.2,72.7,2.25,No
+SU26_229,Senior,No,No,STEM,No,5,6.8,4.9,37.1,70.6,68.3,87.6,3.0,Yes
+SU26_230,Junior,No,Yes,Social Sciences,No,3,7.8,3.4,49.2,56.9,60.2,80.1,2.29,No
+SU26_231,First-Year,No,No,Health Sciences,No,2,6.3,6.3,42.3,52.0,59.9,73.9,2.19,No
+SU26_232,Sophomore,No,Yes,STEM,No,5,7.4,3.6,55.2,54.0,53.7,68.2,2.14,No
+SU26_233,First-Year,No,No,Business,Yes,5,6.7,13.1,37.9,60.7,74.0,100,3.39,Yes
+SU26_234,Sophomore,Yes,No,Health Sciences,No,3,7.8,8.7,51.3,57.3,68.1,86.0,3.16,No
+SU26_235,Sophomore,No,Yes,Health Sciences,Yes,5,6.6,8.7,27.3,75.5,69.2,89.6,3.09,Yes
+SU26_236,Sophomore,No,No,Psychology,Yes,1,6.2,6.8,58.5,46.2,47.5,83.4,1.86,Yes
+SU26_237,Senior,No,No,Social Sciences,No,4,8.4,8.7,27.6,56.7,72.2,75.7,2.96,Yes
+SU26_238,First-Year,No,Yes,Psychology,No,5,8.1,6.0,46.7,48.2,46.9,76.5,3.21,Yes
+SU26_239,Senior,No,No,Business,No,3,8.0,6.7,36.1,74.6,83.5,84.5,3.79,Yes
+SU26_240,Senior,No,No,Health Sciences,No,4,6.6,8.1,42.0,64.0,77.1,90.6,2.72,No
+SU26_241,First-Year,Yes,No,Education,Yes,2,7.9,12.9,32.9,49.0,78.9,74.2,3.08,No
+SU26_242,Sophomore,Yes,No,STEM,Yes,2,6.7,7.0,46.4,59.0,65.9,72.0,2.52,Yes
+SU26_243,First-Year,Yes,No,Social Sciences,Yes,3,5.4,13.5,48.5,44.6,50.4,91.0,2.7,Yes
+SU26_244,Sophomore,Yes,Yes,Psychology,Yes,3,7.2,10.0,57.9,54.7,64.1,88.7,3.34,No
+SU26_245,Senior,No,Yes,Business,No,5,6.7,5.9,37.2,58.5,64.4,81.9,3.16,Yes
+SU26_246,Junior,No,No,Social Sciences,No,3,5.9,7.3,40.7,66.8,80.4,100,3.1,Yes
+SU26_247,Junior,No,Yes,Social Sciences,No,4,9.5,4.4,40.7,77.4,87.3,80.7,2.98,Yes
+SU26_248,Senior,No,No,Social Sciences,No,2,5.7,11.1,42.0,66.7,73.1,100,4.0,Yes
+SU26_249,Junior,No,Yes,Social Sciences,No,3,8.5,10.1,37.4,68.5,78.2,100,2.67,Yes
+SU26_250,First-Year,Yes,No,Social Sciences,No,4,6.9,12.1,40.1,54.2,67.6,82.8,3.32,No
